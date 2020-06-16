@@ -9,7 +9,7 @@
  *  
  * @category  PPE
  * @package   GSB
- * @author    Guillaume D'ALESSANDRO
+ * @author    TRUONG Jacky
  * @version   GIT: <0>
  * @link      http://www.reseaucerta.org Contexte « Laboratoire GSB »
  */
