@@ -5,7 +5,7 @@
  * PHP Version 7
  *
  * @category  PPE
- * @author    KOUAHO Francis & BRECHIARE Vincent & BENMOUSSA Salim
+ * @author    TRUONG Jacky
  * @link      http://www.reseaucerta.org Contexte « Laboratoire GSB »
  */
 
