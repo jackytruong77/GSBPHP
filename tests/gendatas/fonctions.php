@@ -2,7 +2,7 @@
 
 /**
  * Fonctions utilisées pour la génération d'un jeu d'essai
- * @author    KOUAHO Francis & BRECHIARE Vincent & BENMOUSSA Salim
+ * @author    TRUONG Jacky
  * @link      http://www.reseaucerta.org Contexte « Laboratoire GSB »
  */
 
